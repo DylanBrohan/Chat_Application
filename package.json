@@ -1,0 +1,22 @@
+{
+  "name": "chat_application",
+  "version": "1.0.0",
+  "description": "Chat Application with AI Recommendation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanBrohan/Chat_Application.git"
+  },
+  "author": "Dylan Brohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanBrohan/Chat_Application/issues"
+  },
+  "homepage": "https://github.com/DylanBrohan/Chat_Application#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
